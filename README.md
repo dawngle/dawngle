@@ -1,6 +1,7 @@
 # Cheng Tian
 
-**Email:** tiancheng2022@alumni.shanghaitech.edu.cn
+**Email:** tiancheng2022@alumni.shanghaitech.edu.cn  
+**Affiliation:** Shibei Qiyuan AI Technology, Wuhan, China
 
 ## About
 
